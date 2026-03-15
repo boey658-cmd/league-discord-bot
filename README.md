@@ -1,2 +1,9 @@
-# league-discord-bot
-Discord bot for League of Legends communities with account linking, ranked stats, and team management.
+# League Competition Discord Bot
+
+Discord bot for League of Legends communities.
+
+Features:
+- Riot account linking
+- ranked statistics
+- team management
+- automatic match tracking
